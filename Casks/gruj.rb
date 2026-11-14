@@ -2,8 +2,8 @@
 # Instalar:  brew install --cask fan2dev/tap/gruj
 # En cada release, `version` + `sha256` los actualiza scripts/release.sh del repo de la app.
 cask "gruj" do
-  version "1.4.2"
-  sha256 "53313b469b84b12622d2169cdfb3fdf9bd22150e3a7789b0d2326a9cadfa8edf"
+  version "1.5.0"
+  sha256 "db97889935cd806579bd8b9ed8a5fc719d7ad3b892073daf1b7acf824efcc2f2"
 
   url "https://dl.gruj.alejandrofan2.dev/GRUJ-#{version}.dmg",
       verified: "dl.gruj.alejandrofan2.dev/"
